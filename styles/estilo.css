@@ -94,3 +94,12 @@ article h2 {
     margin-left: auto;
 
 }
+
+.rodape {
+    color: white;
+    background-color: #6b6c68;
+    text-align: center;
+    padding: 30px;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 2px;
+}
